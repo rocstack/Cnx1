@@ -24,4 +24,5 @@ npm start
 
 ## Notes
 
-Ran out of time to write some test and clean up/organize a better component structure.
+- Add unit tests
+- Improve component struture
